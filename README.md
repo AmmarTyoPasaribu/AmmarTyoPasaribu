@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+Computer+Science+Student+%40+UNHAS;%F0%9F%92%BB+Web+Development+%7C+Data+Science+%7C+AI;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%93+Information+Systems+Student+%40+UNHAS;%F0%9F%92%BB+Web+Development+%7C+Data+Science+%7C+AI;%F0%9F%9A%80+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 </div>
@@ -17,6 +17,7 @@
 name: Ammar Tyo Pasaribu
 location: Makassar, Indonesia 🇮🇩
 education: Universitas Hasanuddin (UNHAS)
+major: Information Systems
 fields_of_interest:
   - Web Development
   - Data Science & Analytics
