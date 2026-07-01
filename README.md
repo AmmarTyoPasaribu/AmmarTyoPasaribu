@@ -86,10 +86,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ammartyopasaribu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=ammartyopasaribu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammartyopasaribu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img width="80%" src="https://streak-stats.demolab.com/?user=ammartyopasaribu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak"/>
 
 </div>
 
@@ -106,12 +103,16 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 ---
 
-<!-- Trophy Section -->
-## 🏆 GitHub Trophies
+<!-- Featured Projects Section -->
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ammartyopasaribu&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ammartyopasaribu)
+| 💼 **Project Name 1** | 📱 **Project Name 2** |
+| :---: | :---: |
+| <img src="https://via.placeholder.com/400x200/0d1117/58a6ff?text=Project+1+Preview" width="100%"> | <img src="https://via.placeholder.com/400x200/0d1117/58a6ff?text=Project+2+Preview" width="100%"> |
+| A brief description of what this project does and the technologies used. | A brief description of what this project does and the technologies used. |
+| [🔗 View Live Demo](#) <br> [🐈 View Source Code](#) | [🔗 View Live Demo](#) <br> [🐈 View Source Code](#) |
 
 </div>
 
