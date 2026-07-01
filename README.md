@@ -103,21 +103,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 ---
 
-<!-- Featured Projects Section -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 💼 **Project Name 1** | 📱 **Project Name 2** |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/400x200/0d1117/58a6ff?text=Project+1+Preview" width="100%"> | <img src="https://via.placeholder.com/400x200/0d1117/58a6ff?text=Project+2+Preview" width="100%"> |
-| A brief description of what this project does and the technologies used. | A brief description of what this project does and the technologies used. |
-| [🔗 View Live Demo](#) <br> [🐈 View Source Code](#) | [🔗 View Live Demo](#) <br> [🐈 View Source Code](#) |
-
-</div>
-
----
-
 <!-- Connect Section -->
 ## 🤝 Let's Connect!
 
